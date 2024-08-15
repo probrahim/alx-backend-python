@@ -1,7 +1,13 @@
-#!/usr/bin/env python
-""" function take the 1 arg and return floor"""
+#!/usr/bin/env python3
+
+"""
+    2 floor for float
+    """
 
 
 def floor(n: float) -> int:
-    """return  floor of n"""
+    """
+                function floor a float number
+                    """
+
     return int(n)
