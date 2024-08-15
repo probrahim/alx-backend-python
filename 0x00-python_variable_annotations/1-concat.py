@@ -1,4 +1,4 @@
-#!/bin/usr/env python3
+#!/usr/bin/env python3
 """ function take 2 arg and return de concat str1 + str2 """
 
 
