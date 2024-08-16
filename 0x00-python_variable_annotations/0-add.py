@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
-""" function take 2 arg and return the sum """
+
+"""
+    0 Add for adding 2 floats
+"""
 
 
 def add(a: float, b: float) -> float:
-    '''Returns sum'''
+    """
+        return the float sum of a and b
+    """
     return a + b
